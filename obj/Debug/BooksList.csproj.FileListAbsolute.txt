@@ -1,0 +1,13 @@
+D:\Database\69003_Yuliya_Yafimava_T6\bin\Debug\BooksList.exe.config
+D:\Database\69003_Yuliya_Yafimava_T6\bin\Debug\BooksList.exe
+D:\Database\69003_Yuliya_Yafimava_T6\bin\Debug\BooksList.pdb
+D:\Database\69003_Yuliya_Yafimava_T6\obj\Debug\BooksList.csproj.AssemblyReference.cache
+D:\Database\69003_Yuliya_Yafimava_T6\obj\Debug\BooksList.csproj.SuggestedBindingRedirects.cache
+D:\Database\69003_Yuliya_Yafimava_T6\obj\Debug\_69003_Yuliya_Yafimava_T6.Form1.resources
+D:\Database\69003_Yuliya_Yafimava_T6\obj\Debug\_69003_Yuliya_Yafimava_T6.Form2.resources
+D:\Database\69003_Yuliya_Yafimava_T6\obj\Debug\_69003_Yuliya_Yafimava_T6.Form3.resources
+D:\Database\69003_Yuliya_Yafimava_T6\obj\Debug\_69003_Yuliya_Yafimava_T6.Properties.Resources.resources
+D:\Database\69003_Yuliya_Yafimava_T6\obj\Debug\BooksList.csproj.GenerateResource.cache
+D:\Database\69003_Yuliya_Yafimava_T6\obj\Debug\BooksList.csproj.CoreCompileInputs.cache
+D:\Database\69003_Yuliya_Yafimava_T6\obj\Debug\BooksList.exe
+D:\Database\69003_Yuliya_Yafimava_T6\obj\Debug\BooksList.pdb
